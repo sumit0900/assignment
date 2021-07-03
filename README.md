@@ -27,7 +27,7 @@ Common features:
 
 Configure Infoblox Utility first time on your setup
 ===========================================
- - Checkout the Infoblox repository in your local machine. Now goto search_service/pkg
+ - Checkout the Infoblox repository in your local machine. Now goto assignment/pkg
    directory. Now perform following step to build docker image:
 
     sh-3.2# make
