@@ -1,0 +1,3 @@
+file        = Dockerfile
+image_name := infoblox-search
+version := latest
